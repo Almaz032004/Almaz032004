@@ -1,4 +1,4 @@
-//program to convert an integer to binary format
+//program to convert an integer to binary format that is in 0 and 1
 #include<stdio.h>
 int main(){
   int n,remainder,binary=0,i=1;
